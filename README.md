@@ -29,8 +29,8 @@
 ---
 
 ## 📌 Em destaque
+- 🔥 [9xHype – Loja virtual de roupas e tênis (TCC)](https://github.com/doardo9x/9x-hype-tcc)
 
-### 🔥 Projeto TCC: 9xHype ![Em construção](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 Uma loja virtual de roupas e tênis, feita em .NET 9 com C#, aplicando o padrão MVC e Code First.  
 🔧 Em desenvolvimento. Lançamento previsto para este ano!  
 🛍️ Foco total em experiência do usuário e organização de dados.
