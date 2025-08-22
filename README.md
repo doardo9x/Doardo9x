@@ -36,16 +36,6 @@ Uma loja virtual de roupas e tênis, feita em .NET 9 com C#, aplicando o padrão
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Doardo9x&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doardo9x&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ribeiro-b65826304/)
