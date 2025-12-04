@@ -44,4 +44,3 @@ Uma loja virtual de roupas e tênis, feita em .NET 9 com C#, aplicando o padrão
 ---
 
 > “Sempre aprendendo, sempre criando.” – Doardo9x 🚀
-<img src="https://raw.githubusercontent.com/BrunoOller/BrunoOller/output/snake.svg" alt="Snake animation" />
