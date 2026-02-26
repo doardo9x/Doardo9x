@@ -2,7 +2,7 @@
 
 <p align="center">
   💻 Desenvolvedor Front-End em transição para o universo Back-End com C# e .NET  
-  🎓 Estudante do 3º ano do Ensino Médio + Técnico  
+  🎓 Técnico em Desenvolvimento Web 
   🚀 Explorando tecnologias modernas e construindo projetos reais
 </p>
 
