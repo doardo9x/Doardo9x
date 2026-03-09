@@ -16,7 +16,7 @@
 
 🎓 Atualmente sou Analista de Sistemas na empresa Zella Sistemas e junto a isso venho aprimorando e evoluindo meus conhecimentos em desenvolvimento web.
 
-💻 Domino **HTML**, **CSS** e **JavaScript** no Front-End, e  venho me aprofundando em **C# com .NET 9 (MVC)**, especialmente no padrão **Code First**.
+💻 Domino **HTML**, **CSS** e **JavaScript** no Front-End, e  venho me aprofundando em **C# com .NET 10 (MVC)**, especialmente no padrão **Code First**.
 
 🧵 Meu projeto de TCC é a **9xHype**, uma loja virtual de roupas e tênis que está sendo desenvolvida com as melhores práticas em .NET.
 
