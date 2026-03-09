@@ -1,8 +1,10 @@
 <h1 align="center">Olá, eu sou o Doardo9x 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedor Front-End em transição para o universo Back-End com C# e .NET  
-  🎓 Técnico em Desenvolvimento Web 
+  💼 Analista de Sistemas - Zella Sistemas
+  🎓 Técnico em Desenvolvimento de Sistemas 
+  💻 Desenvolvedor FullStack em constante aprimoramentos no Back-End com C# .NET 
+  
   🚀 Explorando tecnologias modernas e construindo projetos reais
 </p>
 
@@ -10,7 +12,7 @@
 
 ## 🧠 Sobre mim
 
-🎓 Atualmente aprimorando e evoluindo meus conhecimentos em desenvolvimento web.
+🎓 Atualmente sou Analista de Sistemas na empresa Zella Sistemas e junto a isso venho aprimorando e evoluindo meus conhecimentos em desenvolvimento web.
 
 💻 Domino **HTML**, **CSS** e **JavaScript** no Front-End, e  venho me aprofundando em **C# com .NET 9 (MVC)**, especialmente no padrão **Code First**.
 
