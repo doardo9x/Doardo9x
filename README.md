@@ -2,7 +2,9 @@
 
 <p align="center">
   💼 Analista de Sistemas - Zella Sistemas
+  
   🎓 Técnico em Desenvolvimento de Sistemas 
+  
   💻 Desenvolvedor FullStack em constante aprimoramentos no Back-End com C# .NET 
   
   🚀 Explorando tecnologias modernas e construindo projetos reais
