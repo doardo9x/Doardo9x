@@ -1,24 +1,24 @@
 <h1 align="center">Olá, eu sou o Doardo9x 👋</h1>
 
 <p align="center">
-  💼 Analista de Sistemas - Zella Sistemas
+  Analista de Sistemas - Zella Sistemas
   
-  🎓 Técnico em Desenvolvimento de Sistemas 
+  Técnico em Desenvolvimento de Sistemas 
   
-  💻 Desenvolvedor FullStack em constante aprimoramentos no Back-End com C# .NET 
+  Desenvolvedor FullStack em constante aprimoramentos no Back-End.
   
-  🚀 Explorando tecnologias modernas e construindo projetos reais
+  Explorando tecnologias e construindo projetos reais
 </p>
 
 ---
 
-## 🧠 Sobre mim
+##  Sobre mim
 
-🎓 Atualmente sou Analista de Sistemas na empresa Zella Sistemas e junto a isso venho aprimorando e evoluindo meus conhecimentos em desenvolvimento web.
+Atualmente sou Analista de Sistemas na empresa Zella Sistemas e junto a isso venho aprimorando e evoluindo meus conhecimentos em desenvolvimento web.
 
-💻 Domino **HTML**, **CSS** e **JavaScript** no Front-End, e  venho me aprofundando em **C# com .NET 10 (MVC)**, especialmente no padrão **Code First**.
+Domino **HTML**, **CSS** e **JavaScript** no Front-End, e  venho me aprofundando em **C# com .NET**, e **PYTHON**.
 
-🧵 Meu projeto de TCC é a **9xHype**, uma loja virtual de roupas e tênis que está sendo desenvolvida com as melhores práticas em .NET.
+Meu projeto de TCC é a **9xHype**, uma loja virtual de roupas e tênis que está sendo desenvolvida com as melhores práticas em .NET.
 
 ---
 
@@ -35,16 +35,15 @@
 - 🔥 [9xHype – Loja virtual de roupas e tênis (TCC)](https://github.com/doardo9x/9x-hype-tcc)
 
 Uma loja virtual de roupas e tênis, feita em .NET 9 com C#, aplicando o padrão MVC e Code First.  
-🔧 Em desenvolvimento. Lançamento previsto para este ano!  
-🛍️ Foco total em experiência do usuário e organização de dados.
+Foco total em experiência do usuário e organização de dados.
 
 ---
 
-## 🌐 Contato
+##  Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ribeiro-b65826304/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doardo9x/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo010304@gmail.com)
 
 ---
 
-> “Sempre aprendendo, sempre criando.” – Doardo9x 🚀
+> Sempre aprendendo, sempre criando. – Doardo9x
