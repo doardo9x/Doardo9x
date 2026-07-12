@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Doardo9x 👋</h1>
+<h1 align="center">Olá, eu sou o Doardo9x </h1>
 
 <p align="center">
   Analista de Sistemas - Zella Sistemas
