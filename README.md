@@ -3,7 +3,7 @@
 <p align="center">
   Analista de Sistemas - Zella Sistemas
 
-  Bacharelando em Sistemas de Informação - FIAP
+  Cursando Sistemas de Informação - FIAP
   
   Técnico em Desenvolvimento de Sistemas 
   
